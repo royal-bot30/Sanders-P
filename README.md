@@ -1,9 +1,9 @@
 # Sanders-P
 <h1>"Suivi de ma progression et exercices pratiques sur le cursus Full Stack Avec FreeCodeCamp 🥇"</h1>
-   <p><h3></h2>**Qui Suis je**?</h3></p>
+   <p><h3>Qui Suis je?</h3></p>
    -Mon nom est Sanders j'ai 20 ans et je vie au Togo.
-   <p><h3></h3>**Ce que j'apprends actuellement**</h3></p>
+   <p><h3>Ce que j'apprends actuellement</h3></p>
     -la conception de Site web avec Html/CSS/JavaScript 
-    <p><h3></h3>**Mes objectifs**</h3></p>
+    <p><h3>Mes objectifs</h3></p>
     -Travailler dans les plus grandes entreprises de la tech .
     -mon But principale est Microsoft et j'y arriverai un jour✅
