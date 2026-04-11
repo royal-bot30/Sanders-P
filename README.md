@@ -11,5 +11,4 @@
 -Mon WhatsApp<a href="https://wa.me/22870654197" target="_blank">
      +22870654197
 </a>
-<p>WhatsApp : +22870654197</p>
--<p>Email:sandersjob030@gmail.com</p>
+-Email <a href="mailto:sandersjob030@gmail.com" target="_blank" sandersjob030@gmail.com 
