@@ -8,5 +8,7 @@
     -Travailler dans les plus grandes entreprises de la tech .
     -mon But principale est Microsoft et j'y arriverai un jour✅
 <p><h3>Mes Contacts</h3></p>
--WhatsApp :<h5>+228 70654197</h5>
--Email: sandersjob030@gmail.com 
+-WhatsApp :
+<h5>+228 70654197</h5>
+-Email: 
+<h5></h5>sandersjob030@gmail.com 
