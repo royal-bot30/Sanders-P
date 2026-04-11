@@ -8,8 +8,8 @@
     -Travailler dans les plus grandes entreprises de la tech .
     -mon But principale est Microsoft et j'y arriverai un jour✅
 <p><h3>Mes Contacts</h3></p>
--<a href="https://wa.me/22870654197" target="_blank">
-   WhatsApp : +22870654197
+-Mon WhatsApp<a href="https://wa.me/22870654197" target="_blank">
+     +22870654197
 </a>
-
+<p>WhatsApp : +22870654197</p>
 -Email:<h5>sandersjob030@gmail.com</h5>
